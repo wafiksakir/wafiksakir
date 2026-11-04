@@ -7,7 +7,7 @@ Currently looking for an apprenticeship in IT systems, networking, and hardware.
 - **Systems & Networking:** Linux SSH Ubuntu, CasaOS, Docker, Cloudflare Zero Trust Tunnels, Testing Environments
   - **[homelab-casaos](https://github.com/wafiksakir/homelab-casaos.git)** – My home server running on CasaOS and Docker, managing containers and automated data backups.
 - **Programming (basics):** Python, C++, HTML/CSS (Learning & experimenting)
-  - **[iot-smart-lamp](./iot-smart-lamp)** – A custom IoT smart lighting project built with microcontrollers
+  - **[iot-smart-lamp](https://github.com/wafiksakir/open-source-robot-arm/tree/main)** – A custom IoT smart lighting project built with microcontrollers
 - **Hardware & Electronics:** Microcontrollers, IoT Projects , Mikro-soldering\
   - **[The 6-Axis Robotic Arm](./open-source-robot-arm)** an open-source 6-axis robotic arm, made out of 3d printed materials
   
