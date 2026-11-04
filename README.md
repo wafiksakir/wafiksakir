@@ -5,7 +5,7 @@ Currently looking for an apprenticeship in IT systems, networking, and hardware.
 
 ### 🛠️ Tech Stack & Tools
 - **Systems & Networking:** Linux SSH Ubuntu, CasaOS, Docker, Cloudflare Zero Trust Tunnels, Testing Environments
-  - **[homelab-casaos]([./homelab-casaos)](https://github.com/wafiksakir/homelab-casaos.git))** – My home server running on CasaOS and Docker, managing containers and automated data backups.
+  - **[homelab-casaos](https://github.com/wafiksakir/homelab-casaos.git)** – My home server running on CasaOS and Docker, managing containers and automated data backups.
 - **Programming (basics):** Python, C++, HTML/CSS (Learning & experimenting)
   - **[iot-smart-lamp](./iot-smart-lamp)** – A custom IoT smart lighting project built with microcontrollers
 - **Hardware & Electronics:** Microcontrollers, IoT Projects , Mikro-soldering\
